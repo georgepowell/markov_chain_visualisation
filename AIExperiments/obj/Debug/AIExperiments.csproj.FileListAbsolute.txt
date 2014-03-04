@@ -1,0 +1,26 @@
+c:\users\george powell\documents\visual studio 2013\Projects\AIExperiments\AIExperiments\obj\Debug\MainWindow.baml
+c:\users\george powell\documents\visual studio 2013\Projects\AIExperiments\AIExperiments\obj\Debug\MainWindow.g.cs
+c:\users\george powell\documents\visual studio 2013\Projects\AIExperiments\AIExperiments\obj\Debug\App.g.cs
+c:\users\george powell\documents\visual studio 2013\Projects\AIExperiments\AIExperiments\obj\Debug\AIExperiments_MarkupCompile.cache
+c:\users\george powell\documents\visual studio 2013\Projects\AIExperiments\AIExperiments\obj\Debug\AIExperiments.g.resources
+c:\users\george powell\documents\visual studio 2013\Projects\AIExperiments\AIExperiments\obj\Debug\AIExperiments.Properties.Resources.resources
+c:\users\george powell\documents\visual studio 2013\Projects\AIExperiments\AIExperiments\obj\Debug\AIExperiments.csproj.GenerateResource.Cache
+c:\users\george powell\documents\visual studio 2013\Projects\AIExperiments\AIExperiments\bin\Debug\AIExperiments.exe.config
+C:\Users\George Powell\Documents\Visual Studio 2013\Projects\AIExperiments\AIExperiments\bin\Debug\AIExperiments.exe
+C:\Users\George Powell\Documents\Visual Studio 2013\Projects\AIExperiments\AIExperiments\bin\Debug\AIExperiments.pdb
+C:\Users\George Powell\Documents\Visual Studio 2013\Projects\AIExperiments\AIExperiments\obj\Debug\AIExperiments.exe
+C:\Users\George Powell\Documents\Visual Studio 2013\Projects\AIExperiments\AIExperiments\obj\Debug\AIExperiments.pdb
+C:\Users\George Powell\Documents\Visual Studio 2013\Projects\AIExperiments\AIExperiments\obj\Debug\AIExperiments.csprojResolveAssemblyReference.cache
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\bin\Debug\AIExperiments.exe.config
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\obj\Debug\AIExperiments.exe
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\obj\Debug\AIExperiments.pdb
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\bin\Debug\AIExperiments.exe
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\bin\Debug\AIExperiments.pdb
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\obj\Debug\AIExperiments.csprojResolveAssemblyReference.cache
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\obj\Debug\MainWindow.baml
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\obj\Debug\MainWindow.g.cs
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\obj\Debug\App.g.cs
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\obj\Debug\AIExperiments_MarkupCompile.cache
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\obj\Debug\AIExperiments.g.resources
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\obj\Debug\AIExperiments.Properties.Resources.resources
+C:\Users\George Powell\Documents\AIExperiments\AIExperiments\obj\Debug\AIExperiments.csproj.GenerateResource.Cache
